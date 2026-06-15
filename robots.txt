@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.san-juan-excursions.com/sitemap.xml

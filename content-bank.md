@@ -101,7 +101,7 @@ voice:
     - title: "The Knee Surgery Regret"
       setting: "El Yunque, March 2025"
       story: |
-        Last March, a family of five booked a waterslide tour through me — parents in their 50s, three kids ages 9 to 16. The 9-year-old loved every second. The father, who hadn't mentioned his knee surgery from two years prior, struggled badly on the muddy descent. We got him down safely, but he was in pain for the last hour. He told me afterward, "I should have done the observation tour." He was right. That conversation is exactly why I'm writing comparison pages.
+        In March 2025, a family of five booked a waterslide tour through me — parents in their 50s, three kids ages 9 to 16. The 9-year-old loved every second. The father, who hadn't mentioned his knee surgery from two years prior, struggled badly on the muddy descent. We got him down safely, but he was in pain for the last hour. He told me afterward, "I should have done the observation tour." He was right. That conversation is exactly why I'm writing comparison pages.
       suitable_pages: ["el-yunque/waterslide-comparison"]
 
     - title: "The Octopus Hunt"

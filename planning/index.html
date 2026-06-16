@@ -7,6 +7,11 @@
 <meta name="description" content="Practical San Juan trip planning from a local: when to visit, how to get around without a car, cruise port logistics, hurricane season reality, and money-saving tips.">
 <meta name="keywords" content="san juan trip planning, san juan cruise port tips, san juan transportation, Ideal Time to visit san juan, puerto rico travel tips, san juan weather guide">
 <link rel="canonical" href="https://san-juan-excursions.com/planning/">
+<meta property="og:image" content="https://san-juan-excursions.com/images/og-planning.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<link rel="alternate" hreflang="en" href="https://san-juan-excursions.com/planning/">
+<link rel="alternate" hreflang="x-default" href="https://san-juan-excursions.com/planning/">
 <link rel="stylesheet" href="/css/style.css">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -35,6 +40,13 @@
   }
 }
 </script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-52JY0TL356"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-52JY0TL356', { 'anonymize_ip': true });
+</script>
 </head>
 <body>
 
@@ -46,11 +58,15 @@
     <button class="nav-toggle" aria-label="Toggle menu" aria-expanded="false">
       <span></span><span></span><span></span>
     </button>
-    <ul class="nav-links">
-      <li><a href="/">Home</a></li>
-      <li><a href="/bio-bay/">Bio Bay</a></li>
-      <li><a href="/day-trips/">Day Trips</a></li>
-      <li><a href="/planning/" class="active">Plan Your Trip</a></li>
+        <ul class="nav-links">
+      <li><a href="/" >Home</a></li>
+      <li><a href="/el-yunque/" >El Yunque</a></li>
+      <li><a href="/snorkeling/" >Snorkeling</a></li>
+      <li><a href="/old-san-juan/" >Old San Juan</a></li>
+      <li><a href="/bio-bay/" >Bio Bay</a></li>
+      <li><a href="/day-trips/" >Day Trips</a></li>
+      <li><a href="/planning/" class="active" aria-current="page">Planning</a></li>
+      <li><a href="/about/" >About</a></li>
     </ul>
   </nav>
 </header>
@@ -264,12 +280,8 @@
   </div>
 </footer>
 
-<script>
-document.querySelector('.nav-toggle').addEventListener('click', function() {
-  document.querySelector('.nav-links').classList.toggle('open');
-  this.setAttribute('aria-expanded', document.querySelector('.nav-links').classList.contains('open'));
-});
-</script>
 
+
+<script src="/js/main.js" defer></script>
 </body>
 </html>

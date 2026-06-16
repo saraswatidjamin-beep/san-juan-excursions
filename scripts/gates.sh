@@ -39,13 +39,11 @@ echo ""
 echo "[2/3] Word counts..."
 for f in $(find "$SITE_DIR" -name '*.html' -not -path '*/.git/*' -not -path '*/backup*/*' 2>/dev/null); do
     basename=$(basename "$f")
-    # Skip utility pages
-    case "$basename" in
-        contact.html) continue ;;
-                privacy.html) continue ;;
-                404.html) continue ;;
-                terms.html) continue ;;
-    esac
+    rel=$(echo "$f" | sed 's|^\./||')
+    # Skip utility pages by path (e.g., privacy/index.html, terms/index.html)
+    if echo "$rel" | grep -qE '^(contact\.html|privacy\.html|privacy/index\.html|404\.html|terms\.html|terms/index\.html)$'; then
+        continue
+    fi
     # Strip HTML tags + script blocks via awk, then count words
     words=$(awk '/<script/,/<\/script>/ {next} 1' "$f" | sed 's/<[^>]*>//g' | wc -w | tr -d ' ')
     if [ "$words" -lt "$MIN_WORDS" ]; then
@@ -65,12 +63,10 @@ echo ""
 echo "[3/3] Viator link coverage..."
 for f in $(find "$SITE_DIR" -name '*.html' -not -path '*/.git/*' -not -path '*/backup*/*' 2>/dev/null); do
     basename=$(basename "$f")
-    case "$basename" in
-        contact.html) continue ;;
-                privacy.html) continue ;;
-                404.html) continue ;;
-                terms.html) continue ;;
-    esac
+    rel=$(echo "$f" | sed 's|^\./||')
+    if echo "$rel" | grep -qE '^(contact\.html|privacy\.html|privacy/index\.html|404\.html|terms\.html|terms/index\.html)$'; then
+        continue
+    fi
     links=$(grep -c 'viator.com' "$f" 2>/dev/null || echo 0)
     if [ "$links" -eq 0 ]; then
         echo "  ❌ ZERO VIATOR LINKS: $(basename $f)"

@@ -1,7 +1,7 @@
 # ============================================================
 # SAN JUAN EXCURSIONS — CONTENT BANK
-# Voice: Mateo Rivera — San Juan native, certified guide since 2013
-# 12 years guiding, 3,000+ excursions across Puerto Rico
+# Voice: Mateo Rivera — San Juan native, guiding since 2013
+# 13 years, 3,000+ excursions across Puerto Rico
 # Destination ID: 903 (557 Viator products)
 # ============================================================
 
@@ -15,7 +15,7 @@ site:
 voice:
   persona_name: "Mateo Rivera"
   persona_bio: |
-    Mateo Rivera was born in Santurce in 1990, raised between the blue cobblestone streets of Old San Juan and the green foothills of El Yunque. His maternal grandfather lived in Loíza and taught him to snorkel off Piñones before he could ride a bike. His paternal grandfather drove a público — one of those shared vans that crisscross the island — and Mateo spent summers riding shotgun, learning every back road between San Juan and Fajardo. His mother worked at a small hotel in Condado, which meant he grew up hearing tourists ask the same questions over and over. At 22, after two years of coursework and field training, he earned his tour guide certification from the Puerto Rico Tourism Company in 2012. Since 2013, he has led more than 3,000 excursions: rainforest waterslides, turtle snorkeling, bio bay kayak paddles, walking food tours through Old San Juan, cave explorations in Arecibo, catamaran sails to Culebra, and private custom itineraries. He still guides part-time to keep his information current. When he tells you about trail conditions at El Yunque, he was there last month.
+    Mateo Rivera was born in Santurce in 1990, raised between the blue cobblestone streets of Old San Juan and the green foothills of El Yunque. His maternal grandfather lived in Loíza and taught him to snorkel off Piñones before he could ride a bike. His paternal grandfather drove a público — one of those shared vans that crisscross the island — and Mateo spent summers riding shotgun, learning every back road between San Juan and Fajardo. His mother worked at a small hotel in Condado, which meant he grew up hearing tourists ask the same questions over and over. At 22, after two years of coursework and field training, he earned his tour guide certification from the Puerto Rico Tourism Company in 2012. He has been guiding professionally since 2013 — 13 years and more than 3,000 excursions: rainforest waterslides, turtle snorkeling, bio bay kayak paddles, walking food tours through Old San Juan, cave explorations in Arecibo, catamaran sails to Culebra, and private custom itineraries. He still guides part-time to keep his information current. When he tells you about trail conditions at El Yunque, he was there last month.
   tone: |
     Direct, specific, no fluff. Mateo writes like a local who's done the thing so many times he can tell you exactly what to expect — including what goes wrong. He names real prices, real logistics, and real disappointments. He'll recommend a $50 tour over a $200 one if the $50 one delivers. His authority comes from repetition: "I've done this run with three different operators." His signature style: genuine enthusiasm when a tour deserves it, sharp honesty when it doesn't. He uses anecdotes that teach (the honeymoon couple on the 40-person bus, the 72-year-old from Minnesota, the cousin who couldn't stop laughing at Mosquito Bay). He is anti-marketing-speak and pro-specific-detail. He never buries the disclosure, never fakes a review count, and never recommends something he wouldn't book for his own mother.
   narrative_first_directive: |
@@ -167,7 +167,7 @@ voice:
       A quick note about how this works: when you click through and book a tour on Viator, I get a small commission. That's it. No operator pays me directly. If a tour is on this page, I've either led it personally or vetted the operator by working alongside them. If I haven't done it, I tell you. The rankings you see are based on real traveler reviews combined with my own on-the-ground experience.
 
     - |
-      After 12 years of guiding in these waters, here's what I've learned about San Juan snorkeling: the $45 shore-based tour at Escambrón Beach delivers turtles at an 85–90% success rate on morning tours. You're in the water within 15 minutes of arriving. The guides know exactly where the turtles feed because they're at the same seagrass beds every morning. The $180 catamaran to Culebra is a completely different product — you're paying for the full-day boat experience, lunch, drinks, deeper water, healthier coral, and a beach that regularly makes "top beaches in the world" lists. Both are good. They're just not the same thing, and mistaking them for competitors at different price points is how you end up disappointed.
+      After 13 years of guiding in these waters, here's what I've learned about San Juan snorkeling: the $42-$50 shore-based tour at Escambrón Beach delivers turtles at an 85–90% success rate on morning tours. You're in the water within 15 minutes of arriving. The guides know exactly where the turtles feed because they're at the same seagrass beds every morning. The $180 catamaran to Culebra is a completely different product — you're paying for the full-day boat experience, lunch, drinks, deeper water, healthier coral, and a beach that regularly makes "top beaches in the world" lists. Both are good. They're just not the same thing, and mistaking them for competitors at different price points is how you end up disappointed.
 
       The thing that makes me angry: the party catamarans disguised as snorkel tours. Unlimited rum punch, DJ on board, "party atmosphere." Nothing wrong with a booze cruise — call it what it is. But these tours often stop at a mediocre reef for 30 minutes with half the guests too tipsy to swim properly. If you actually want to see marine life, this isn't it. Pay $60 for the party if you want the party. Pay for a snorkel tour if you want snorkeling. Don't pay for both and get neither.
 
@@ -176,7 +176,7 @@ voice:
 
       I have guided groups during a full moon. I have also guided groups three nights after a new moon when the sky was pitch black. The difference is not subtle. It is the difference between "oh, I think I saw something" and "I cannot believe this is real."
 
-      Puerto Rico has three bio bays: Mosquito Bay in Vieques (Guinness World Record, brightest in the world, 3-4 hours transit time, $200-250/person), Laguna Grande in Fajardo (most convenient, 50-60 minute drive from San Juan, $50-75, good but not dazzling), and La Parguera in Lajas (weakest brightness, 2.5-hour drive each way, BUT it's the only one where you can swim in the glowing water). Which one you pick depends on whether you value maximum glow or minimum logistics. For most visitors with limited time: Fajardo on a dark night. For the bucket-list experience: Vieques, and budget a full day.
+      Puerto Rico has three bio bays: Mosquito Bay in Vieques (Guinness World Record, brightest in the world, 3-4 hours transit time, $230/person), Laguna Grande in Fajardo (most convenient, 50-60 minute drive from San Juan, $55-125, good but not dazzling), and La Parguera in Lajas (weakest brightness, 2.5-hour drive each way, BUT it's the only one where you can swim in the glowing water). Which one you pick depends on whether you value maximum glow or minimum logistics. For most visitors with limited time: Fajardo on a dark night. For the bucket-list experience: Vieques, and budget a full day.
 
 knowledge:
   seasonal_notes: |
@@ -220,7 +220,7 @@ knowledge:
     - topic: el-yunque
       fact: "Most waterslide tours operate on PRIVATE LAND outside the national forest boundary — they don't require USDA reservations. Standard hike tours enter the national forest proper."
     - topic: el-yunque
-      fact: "El Yunque waterslide tours: $44-90/person, 4-7 hours, moderate-to-high physical demand, you will get muddy and wet. Standard hikes: $79-80/person, 4-5 hours, low-to-moderate demand, mostly dry."
+      fact: "El Yunque waterslide tours: $43-90/person, 4-7 hours, moderate-to-high physical demand, you will get muddy and wet. Standard hikes: $79-80/person, 4-5 hours, low-to-moderate demand, mostly dry."
     - topic: el-yunque
       fact: "The waterslides are natural rock chutes smoothed by centuries of flowing water. They're fun but they're not Disney — you will get scraped."
     - topic: el-yunque
@@ -293,7 +293,7 @@ knowledge:
       reviews: 2327
       duration: "90 minutes"
       why_recommended: "Motorized propulsion unit — covers 3x the area without exhaustion. Same Escambrón location, same turtles. Best for non-swimmers or older adults."
-      who_not_for: "Budget travelers (standard turtle snorkel is $45 vs $99). Strong swimmers who don't need motorized assistance."
+      who_not_for: "Budget travelers ($50 standard turtle snorkel vs $99). Strong swimmers who don't need motorized assistance."
       product_url: "https://www.viator.com/tours/San-Juan/Puerto-Rico-Jet-Snorkel-with-Turtles-in-San-Juan/d903-174461P1"
 
     - code: "486634P7"
@@ -395,7 +395,7 @@ knowledge:
       rating: 5.00
       reviews: 19
       duration: "1.5 hours"
-      why_recommended: "Flawless 5.0 rating. Insider stories you won't find in guidebooks. Covers hidden details, narrowest building in Western Hemisphere, Capilla del Cristo legends."
+      why_recommended: "5.0 rating — note the small sample (only 19 reviews). Insider stories you won't find in guidebooks. Covers hidden details, narrowest house in the Western Hemisphere, Capilla del Cristo legends."
       who_not_for: "First-time visitors who want the standard landmark tour (this is deeper, narrower focus)."
       product_url: "https://www.viator.com/tours/San-Juan/Old-San-Juan-Colonial-District/d903-203528P2"
 
@@ -509,7 +509,7 @@ knowledge:
       rating: 4.90
       reviews: 651
       duration: "3 hours"
-      why_recommended: "Evening food walk through Old San Juan — you'll try mofongo, alcapurrias, fresh ceviche, and local coffee done properly. The guides are knowledgeable about architecture and history between food stops. Morning slot recommended (quieter streets, fresher food)."
+      why_recommended: "Food walk through Old San Juan — you'll try mofongo, alcapurrias, fresh ceviche, and local coffee done properly. The guides are knowledgeable about architecture and history between food stops, so you get a solid cultural orientation along with your meal."
       who_not_for: "Budget travelers ($179 is a premium food tour). Anyone with severe food allergies — Puerto Rican cuisine uses sofrito (onion, garlic, peppers) in almost everything."
       product_url: "https://www.viator.com/tours/San-Juan/Savor-the-Sunset-Old-San-Juan-Walking-Food-Tour/d903-7051P4"
 

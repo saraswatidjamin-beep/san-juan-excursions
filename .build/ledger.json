@@ -1,0 +1,24 @@
+{
+  "site": "san-juan-excursions",
+  "started": "2026-06-16T14:48:24.883025+00:00",
+  "phases": {
+    "preflight": {
+      "status": "PASS",
+      "ts": "2026-06-16T14:48:24.883345+00:00",
+      "page_shas": {
+        "index.html": "d99281f2abb0829350a9a9134e93e5f2f81b90f94cbcfffad73d5ff0a433fb73",
+        "el-yunque/index.html": "d54a80d36e8433e49614da1af41626d07abbc9bf331315e708e9894f6ba1e58c",
+        "el-yunque/waterslide-comparison/index.html": "e1f49cdc1cb73955d792522029b00bb68a37833fc3bc2828f8f3603be657c26f",
+        "snorkeling/index.html": "f0ce5c844ee5ea70eaf72d9110a409045ad8aa9cf3ffdf91e675fd88de0e7c3f",
+        "snorkeling/turtle-vs-reef-comparison/index.html": "24bee5e265b4d3f76c3b07e92a7d7bd7d3a94e8938f67892385e3165320c2928",
+        "privacy/index.html": "853ee03e743639ef7671ee051c63408565ca07274d51308e731467581338e420",
+        "terms/index.html": "982c5f66c90560265a28913dc7795ee85ac9e5ea35e691573778f4bca12eb93b",
+        "planning/index.html": "cae9e16275357f141e9d163a10dfd3a058089f82f3b0390abfe492061dac3990",
+        "bio-bay/index.html": "d3dd980731360a0961a370fe3f91c8a0959b8d14548b26d822d42cfd0906aab0",
+        "about/index.html": "4cf42199263246b09a105c0af09c49dc22748571303a6a7f8d545779b1cf0f76",
+        "old-san-juan/index.html": "698560a894399797909cbaee8326e67ddce35eff8e0676e7c148948dc624cdf6",
+        "day-trips/index.html": "443cddfe6b8c7a22769ded8a1be63c5dd3928cd0296e48f67c0d52010b24380b"
+      }
+    }
+  }
+}

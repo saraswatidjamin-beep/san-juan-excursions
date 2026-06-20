@@ -1,1 +1,1 @@
-{"cleanUrls": true, "trailingSlash": false, "outputDirectory": "."}
+{"cleanUrls": true, "trailingSlash": false, "outputDirectory": ".", "redirects": [{"source": "/(.*)", "destination": "https://www.san-juan-excursions.com/$1", "permanent": true, "has": [{"type": "host", "value": "san-juan-excursions.com"}]}]}

@@ -7,3 +7,4 @@
 | 3 | old-san-juan/best-walking-tours | Best Old San Juan Walking Tours: Budget to Private | best-of | PUBLISHED | 2026-06-19 |
 | 4 | bio-bay/best-bio-bay-tours | Best Bio Bay Tours from San Juan: Fajardo vs Vieques vs La Parguera | comparison | PUBLISHED | 2026-06-20 |
 | 5 | day-trips/best-day-trips | Best Day Trips from San Juan: Culebra, Vieques, Icacos & More | best-of | PUBLISHED | 2026-06-21 |
+| 6 | day-trips/catamaran-island-comparison | Catamaran Day Trip Showdown: Culebra vs Icacos — Which Island Sail Is Right for You? | comparison | PUBLISHED | 2026-06-22 |

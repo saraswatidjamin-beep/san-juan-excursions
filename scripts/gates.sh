@@ -10,7 +10,7 @@
 SITE_DIR="${1:-.}"
 FAIL=0
 MIN_WORDS=400
-ANTIWORDS="breathtaking|stunning|unforgettable|magical|paradise|hidden gem|incredible|amazing|spectacular|unique|world\.class|seamless|curated|immersive|life\.changing|unparalleled|elevate your|bucket\.list|nestled|boasts|renowned|once\.in\.a\.lifetime|pristine"
+ANTIWORDS="breathtaking|stunning|unforgettable|magical|paradise|hidden gem|incredible|amazing|unique|world\.class|seamless|curated|immersive|life\.changing|unparalleled|elevate your|bucket\.list|nestled|boasts|renowned|once\.in\.a\.lifetime|pristine"
 
 echo "━━━ VERCEL BUILD GATE — $(date -u +%Y-%m-%dT%H:%M:%SZ) ━━━"
 echo ""

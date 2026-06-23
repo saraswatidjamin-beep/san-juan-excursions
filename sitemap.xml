@@ -86,6 +86,13 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.san-juan-excursions.com/planning/cruise-passenger-tours</loc>
+    <lastmod>2026-06-23</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.san-juan-excursions.com/planning/cruise-passenger-tours"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.san-juan-excursions.com/planning/cruise-passenger-tours"/>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.san-juan-excursions.com/planning</loc>
     <lastmod>2026-06-22</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.san-juan-excursions.com/planning"/>

@@ -51,6 +51,13 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.san-juan-excursions.com/el-yunque/best-tours-by-type</loc>
+    <lastmod>2026-06-24</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.san-juan-excursions.com/el-yunque/best-tours-by-type"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.san-juan-excursions.com/el-yunque/best-tours-by-type"/>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.san-juan-excursions.com/el-yunque</loc>
     <lastmod>2026-06-22</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.san-juan-excursions.com/el-yunque"/>
@@ -101,7 +108,7 @@
   </url>
   <url>
     <loc>https://www.san-juan-excursions.com/privacy</loc>
-    <lastmod>2026-06-22</lastmod>
+    <lastmod>2026-06-24</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.san-juan-excursions.com/privacy"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.san-juan-excursions.com/privacy"/>
     <priority>0.3</priority>
@@ -129,7 +136,7 @@
   </url>
   <url>
     <loc>https://www.san-juan-excursions.com/terms</loc>
-    <lastmod>2026-06-22</lastmod>
+    <lastmod>2026-06-24</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.san-juan-excursions.com/terms"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.san-juan-excursions.com/terms"/>
     <priority>0.3</priority>

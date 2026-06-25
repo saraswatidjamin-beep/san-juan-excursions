@@ -52,7 +52,7 @@
   </url>
   <url>
     <loc>https://www.san-juan-excursions.com/el-yunque/best-tours-by-type</loc>
-    <lastmod>2026-06-24</lastmod>
+    <lastmod>2026-06-25</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.san-juan-excursions.com/el-yunque/best-tours-by-type"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.san-juan-excursions.com/el-yunque/best-tours-by-type"/>
     <priority>0.7</priority>
@@ -121,11 +121,21 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.san-juan-excursions.com/snorkeling/best-tours-by-budget</loc>
+    <lastmod>2026-06-25</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.san-juan-excursions.com/snorkeling</loc>
     <lastmod>2026-06-22</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.san-juan-excursions.com/snorkeling"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.san-juan-excursions.com/snorkeling"/>
     <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.san-juan-excursions.com/snorkeling/turtle-snorkeling-review</loc>
+    <lastmod>2026-06-25</lastmod>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.san-juan-excursions.com/snorkeling/turtle-vs-reef-comparison</loc>

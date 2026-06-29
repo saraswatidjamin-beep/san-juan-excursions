@@ -3,21 +3,21 @@
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.san-juan-excursions.com/about</loc>
-    <lastmod>2026-06-22</lastmod>
+    <lastmod>2026-06-28</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.san-juan-excursions.com/about"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.san-juan-excursions.com/about"/>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.san-juan-excursions.com/bio-bay/best-bio-bay-tours</loc>
-    <lastmod>2026-06-22</lastmod>
+    <lastmod>2026-06-28</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.san-juan-excursions.com/bio-bay/best-bio-bay-tours"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.san-juan-excursions.com/bio-bay/best-bio-bay-tours"/>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.san-juan-excursions.com/bio-bay/bio-bay-kayak-vs-boat-comparison</loc>
-    <lastmod>2026-06-27</lastmod>
+    <lastmod>2026-06-28</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -28,15 +28,20 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.san-juan-excursions.com/bioluminescent-bay-night-kayaking-biobay-tour-review</loc>
+    <lastmod>2026-06-28</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.san-juan-excursions.com/day-trips/best-day-trips</loc>
-    <lastmod>2026-06-22</lastmod>
+    <lastmod>2026-06-28</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.san-juan-excursions.com/day-trips/best-day-trips"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.san-juan-excursions.com/day-trips/best-day-trips"/>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.san-juan-excursions.com/day-trips/catamaran-island-comparison</loc>
-    <lastmod>2026-06-22</lastmod>
+    <lastmod>2026-06-29</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.san-juan-excursions.com/day-trips/catamaran-island-comparison"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.san-juan-excursions.com/day-trips/catamaran-island-comparison"/>
     <priority>0.7</priority>
@@ -50,42 +55,42 @@
   </url>
   <url>
     <loc>https://www.san-juan-excursions.com/el-yunque/best-el-yunque-tours</loc>
-    <lastmod>2026-06-22</lastmod>
+    <lastmod>2026-06-28</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.san-juan-excursions.com/el-yunque/best-el-yunque-tours"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.san-juan-excursions.com/el-yunque/best-el-yunque-tours"/>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.san-juan-excursions.com/el-yunque/best-tours-by-type</loc>
-    <lastmod>2026-06-25</lastmod>
+    <lastmod>2026-06-28</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.san-juan-excursions.com/el-yunque/best-tours-by-type"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.san-juan-excursions.com/el-yunque/best-tours-by-type"/>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.san-juan-excursions.com/el-yunque</loc>
-    <lastmod>2026-06-22</lastmod>
+    <lastmod>2026-06-28</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.san-juan-excursions.com/el-yunque"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.san-juan-excursions.com/el-yunque"/>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.san-juan-excursions.com/el-yunque/waterslide-comparison</loc>
-    <lastmod>2026-06-22</lastmod>
+    <lastmod>2026-06-28</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.san-juan-excursions.com/el-yunque/waterslide-comparison"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.san-juan-excursions.com/el-yunque/waterslide-comparison"/>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.san-juan-excursions.com/</loc>
-    <lastmod>2026-06-21</lastmod>
+    <lastmod>2026-06-29</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.san-juan-excursions.com/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.san-juan-excursions.com/"/>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://www.san-juan-excursions.com/old-san-juan/best-walking-tours</loc>
-    <lastmod>2026-06-22</lastmod>
+    <lastmod>2026-06-28</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.san-juan-excursions.com/old-san-juan/best-walking-tours"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.san-juan-excursions.com/old-san-juan/best-walking-tours"/>
     <priority>0.7</priority>
@@ -99,7 +104,7 @@
   </url>
   <url>
     <loc>https://www.san-juan-excursions.com/planning/cruise-passenger-tours</loc>
-    <lastmod>2026-06-23</lastmod>
+    <lastmod>2026-06-28</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.san-juan-excursions.com/planning/cruise-passenger-tours"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.san-juan-excursions.com/planning/cruise-passenger-tours"/>
     <priority>0.7</priority>
@@ -113,21 +118,16 @@
   </url>
   <url>
     <loc>https://www.san-juan-excursions.com/privacy</loc>
-    <lastmod>2026-06-24</lastmod>
+    <lastmod>2026-06-28</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.san-juan-excursions.com/privacy"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.san-juan-excursions.com/privacy"/>
     <priority>0.3</priority>
   </url>
   <url>
     <loc>https://www.san-juan-excursions.com/snorkeling/best-snorkeling-tours</loc>
-    <lastmod>2026-06-22</lastmod>
+    <lastmod>2026-06-28</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.san-juan-excursions.com/snorkeling/best-snorkeling-tours"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.san-juan-excursions.com/snorkeling/best-snorkeling-tours"/>
-    <priority>0.7</priority>
-  </url>
-  <url>
-    <loc>https://www.san-juan-excursions.com/snorkeling/best-tours-by-budget</loc>
-    <lastmod>2026-06-25</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
@@ -139,21 +139,31 @@
   </url>
   <url>
     <loc>https://www.san-juan-excursions.com/snorkeling/turtle-snorkeling-review</loc>
-    <lastmod>2026-06-25</lastmod>
+    <lastmod>2026-06-28</lastmod>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.san-juan-excursions.com/snorkeling/turtle-vs-reef-comparison</loc>
-    <lastmod>2026-06-22</lastmod>
+    <lastmod>2026-06-28</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.san-juan-excursions.com/snorkeling/turtle-vs-reef-comparison"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.san-juan-excursions.com/snorkeling/turtle-vs-reef-comparison"/>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.san-juan-excursions.com/terms</loc>
-    <lastmod>2026-06-24</lastmod>
+    <lastmod>2026-06-28</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.san-juan-excursions.com/terms"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.san-juan-excursions.com/terms"/>
     <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://www.san-juan-excursions.com/vieques-bio-bay-tour-beach-day-tr-biobay-tour-review</loc>
+    <lastmod>2026-06-28</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.san-juan-excursions.com/vieques-bio-bay-tour-vs-bioluminescent-bay-n-biobay-san-jua</loc>
+    <lastmod>2026-06-29</lastmod>
+    <priority>0.7</priority>
   </url>
 </urlset>

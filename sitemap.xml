@@ -2,6 +2,11 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.san-juan-excursions.com/2-biobay-tours-san-juan</loc>
+    <lastmod>2026-06-30</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.san-juan-excursions.com/about</loc>
     <lastmod>2026-06-28</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.san-juan-excursions.com/about"/>
@@ -25,6 +30,11 @@
     <lastmod>2026-06-22</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.san-juan-excursions.com/bio-bay"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.san-juan-excursions.com/bio-bay"/>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.san-juan-excursions.com/biobay-tours-buyers-guide-san-juan</loc>
+    <lastmod>2026-06-30</lastmod>
     <priority>0.7</priority>
   </url>
   <url>

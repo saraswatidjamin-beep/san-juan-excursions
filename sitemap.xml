@@ -92,8 +92,13 @@
     <priority>0.7</priority>
   </url>
   <url>
+    <loc>https://www.san-juan-excursions.com/half-day-tour-el-yunque-rainforest-elyunque-tour-review</loc>
+    <lastmod>2026-07-03</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
     <loc>https://www.san-juan-excursions.com/</loc>
-    <lastmod>2026-06-29</lastmod>
+    <lastmod>2026-07-01</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.san-juan-excursions.com/"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.san-juan-excursions.com/"/>
     <priority>1.0</priority>
@@ -106,7 +111,7 @@
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://www.san-juan-excursions.com/old-san-juan/discover-old-san-juan-rich-heritage-culture-tour-review</loc>
+    <loc>https://www.san-juan-excursions.com/discover-old-san-juan-rich-heritage-culture-tour-review</loc>
     <lastmod>2026-07-01</lastmod>
     <priority>0.7</priority>
   </url>
@@ -137,6 +142,11 @@
     <xhtml:link rel="alternate" hreflang="en" href="https://www.san-juan-excursions.com/privacy"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.san-juan-excursions.com/privacy"/>
     <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://www.san-juan-excursions.com/rated-el-yunque-rainforest-wa-elyunque-tour-review</loc>
+    <lastmod>2026-07-02</lastmod>
+    <priority>0.7</priority>
   </url>
   <url>
     <loc>https://www.san-juan-excursions.com/snorkeling/best-snorkeling-tours</loc>

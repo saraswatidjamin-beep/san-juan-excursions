@@ -133,7 +133,8 @@ footer a:hover { color: white; }
 .content-section p { max-width: 70ch; }
 
 /* Mobile */
-@media (max-width: 768px) {
+html, body { overflow-x: hidden; }
+  @media (max-width: 768px) {
   .nav-toggle { display: block; }
   .nav-links { display: none; position: absolute; top: 100%; left: 0; right: 0; background: var(--primary-dark); flex-direction: column; padding: 1rem 5%; gap: 0.5rem; }
   .nav-links.open { display: flex; }

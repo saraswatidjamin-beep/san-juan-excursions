@@ -1,5 +1,7 @@
-domain: san-juan-excursions.com
+brand_de: "San Juan Ausfl\xFCge"
 brand_en: San Juan Excursions
+brand_es: Excursiones en San Juan
+domain: san-juan-excursions.com
 foreign_domains:
 - mateorivera.com
 whitelist:

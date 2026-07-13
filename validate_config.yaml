@@ -1,0 +1,17 @@
+domain: san-juan-excursions.com
+brand_en: San Juan Excursions
+foreign_domains:
+- mateorivera.com
+whitelist:
+- San
+- Juan
+- Yunque
+- Puerto
+- Rico
+- Boricua
+- Bio
+- Bay
+- Vieques
+- Culebra
+- Fajardo
+- Condado

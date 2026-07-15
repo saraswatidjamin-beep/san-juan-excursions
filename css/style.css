@@ -154,3 +154,82 @@ html, body { overflow-x: hidden; }
 .nav-links a, .nav-toggle, .hero-cta, .cta, footer a, .badge {
   min-height: 48px; display: inline-flex; align-items: center;
 }
+/* === Fleet Visual QA Fixes — Phase 1 (Yogya-validated) === */
+
+/* A. 72ch text constraint on all paragraph containers */
+main section > p, main section > ul, main section > ol,
+.intro p, .honesty p, .honesty li,
+.comp-card p, .verdict p, .product-card-body p, .author-info p,
+main > p, main article p, main .article-body p, main p, main li, .content p, .content li {
+  max-width: 72ch;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* B. H3 left-border accent */
+h3 {
+  border-left: 4px solid var(--accent, #c4956a);
+  padding-left: 0.75rem;
+  font-weight: 700;
+  margin-top: 2rem;
+}
+
+/* C. Heading scale */
+h1 { font-size: clamp(2rem, 5vw, 3rem); }
+h2 { font-size: clamp(1.5rem, 3vw, 2rem); }
+h4 { font-size: 1rem; text-transform: uppercase; letter-spacing: 0.05em; }
+
+/* D. CTA button weight */
+.cta-button, .cta, a.cta { font-weight: 700; }
+
+/* E. Mobile baseline */
+@media (max-width: 640px) {
+  html { font-size: 0.95rem; }
+}
+
+/* F. Mobile tables */
+.comparison-table-container { overflow-x: auto; -webkit-overflow-scrolling: touch; }
+@media (max-width: 640px) {
+  .comparison-table { font-size: 0.85rem; }
+  .comparison-table th, .comparison-table td { padding: 0.5rem 0.75rem; }
+}
+
+/* G. Text alignment */
+main p, .intro p { text-align: left; }
+.intro p { margin-left: 0; margin-right: auto; }
+
+/* H. Section spacing */
+.intro + .intro { margin-top: 2.5rem; }
+.affiliate-disclosure { margin: 1.5rem 0 2rem; }
+main h2 { margin-top: 3rem; margin-bottom: 1.25rem; }
+main h2:first-of-type { margin-top: 0; }
+main p { margin-bottom: 1.25rem; }
+
+/* I. Card grid */
+.pick-cards, .card-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 20px;
+}
+
+/* J. Avatar img fix */
+img.author-avatar {
+  display: block;
+  background: transparent;
+  object-fit: cover;
+}
+
+/* K. Mobile nav */
+@media (max-width: 768px) {
+  body { font-size: 0.95rem; }
+  main, main article { padding-inline: 16px; }
+  h1 { font-size: 2.25rem; }
+  h2 { font-size: 1.5rem; }
+  .nav-links { display: none; }
+  .hero, .page-header { min-height: 280px; }
+  .pick-cards, .card-grid { grid-template-columns: 1fr; }
+}
+@media (max-width: 600px) {
+  .intro { padding: 0 1rem; }
+  .breadcrumbs { padding: 0.5rem 1rem; }
+}

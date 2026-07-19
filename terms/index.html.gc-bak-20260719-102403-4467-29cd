@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Terms of Use — San Juan Excursions (2026)</title>
+<meta name="description" content="Terms of use for San Juan Excursions. Plain-English explanation of editorial standards, affiliate disclosure, intellectual property, and liability limits.">
+<meta name="keywords" content="terms of use, San Juan Excursions terms, affiliate disclosure, editorial standards, liability, Puerto Rico tour reviews">
+<meta name="author" content="Mateo Rivera">
+<link rel="canonical" href="https://www.san-juan-excursions.com/terms">
+<link rel="alternate" hreflang="en" href="https://www.san-juan-excursions.com/terms">
+<link rel="alternate" hreflang="x-default" href="https://www.san-juan-excursions.com/terms">
+<meta property="og:title" content="Terms of Use — San Juan Excursions">
+<meta property="og:description" content="Plain-English terms of use for San Juan Excursions, covering editorial standards, affiliate disclosure, IP, and liability.">
+<meta property="og:url" content="https://www.san-juan-excursions.com/terms">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Terms of Use — San Juan Excursions">
+<meta name="twitter:description" content="Plain-English terms of use for San Juan Excursions, covering editorial standards, affiliate disclosure, IP, and liability.">
+<meta property="og:image" content="https://www.san-juan-excursions.com/images/og-default.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/css/style.css">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "name": "Terms of Use — San Juan Excursions",
+  "description": "Plain-English terms of use for San Juan Excursions, covering editorial standards, affiliate disclosure, intellectual property, and liability limits.",
+  "url": "https://www.san-juan-excursions.com/terms",
+  "mainEntity": {
+    "@type": "Person",
+    "name": "Mateo Rivera",
+    "description": "San Juan native, certified tour guide with 13 years of experience leading excursions across Puerto Rico. Founder of San Juan Excursions.",
+    "jobTitle": "Tour Guide & Founder",
+    "worksFor": {
+      "@type": "Organization",
+      "name": "San Juan Excursions",
+      "url": "https://www.san-juan-excursions.com/"
+    },
+    "knowsAbout": [
+      "El Yunque Rainforest Tours",
+      "San Juan Snorkeling",
+      "Bio Bay Kayaking",
+      "Old San Juan Walking Tours",
+      "Puerto Rico Day Trips"
+    ],
+    "homeLocation": {
+      "@type": "City",
+      "name": "San Juan",
+      "containedInPlace": {
+        "@type": "Country",
+        "name": "Puerto Rico"
+      }
+    }
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://www.san-juan-excursions.com/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Terms of Use",
+      "item": "https://www.san-juan-excursions.com/terms"
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Who runs San Juan Excursions?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Mateo Rivera — a San Juan native born in Santurce, raised between Old San Juan and the foothills of El Yunque. Certified tour guide since 2013 with over 3,000 excursions led across Puerto Rico. Still guides part-time to keep information current."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does San Juan Excursions make money?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Through Viator affiliate commissions. When you click through and book a tour, Mateo earns a small commission at no extra cost to you. No tour operator pays directly for placement. Rankings are based on real traveler reviews combined with Mateo's firsthand experience."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does Mateo accept payment from tour operators for better placement?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. San Juan Excursions does not accept direct payment from any tour operator for placement, ratings, or recommendations. If a tour is on this site, Mateo genuinely believes it's worth your time and money based on firsthand experience and verified reviews."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How are tours selected and ranked?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Tours are selected based on three criteria: (1) Mateo has personally experienced the tour or worked alongside the operator, (2) the operator maintains a 4.0+ rating across Viator and TripAdvisor with at least 100 reviews, and (3) the operator has a clear cancellation policy and safety record. Rankings are weighted by review count, average rating, guide quality, and Mateo's on-the-ground assessment."
+      }
+    }
+  ]
+}
+</script>
+
+<style>
+.hero { background: linear-gradient(160deg, #023E8A 0%, #0077B6 40%, #00B4D8 100%); }
+.hero h1 { font-size: clamp(1.6rem, 4vw, 2.4rem); }
+.timeline { position: relative; padding-left: 2rem; margin: 2rem 0; border-left: 3px solid var(--primary); }
+.timeline-item { margin-bottom: 2rem; position: relative; }
+.timeline-item::before { content: ''; position: absolute; left: -2.45rem; top: 0.35rem; width: 14px; height: 14px; background: var(--primary); border-radius: 50%; border: 3px solid var(--bg); }
+.timeline-year { font-size: 0.8rem; color: var(--primary); font-weight: 700; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 0.25rem; }
+.timeline-item h3 { margin: 0 0 0.5rem; font-size: 1.1rem; }
+.ethics-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5rem; margin: 2rem 0; }
+.ethics-card { background: white; border-radius: 12px; padding: 1.5rem; box-shadow: 0 2px 8px rgba(0,0,0,0.06); border-top: 4px solid var(--primary); }
+.ethics-card.negative { border-top-color: var(--accent); }
+.ethics-card h3 { margin: 0 0 0.75rem; font-size: 1.1rem; }
+.ethics-card p { font-size: 0.9rem; color: var(--text-muted); line-height: 1.6; }
+.contact-box { background: var(--surface); padding: 2rem; border-radius: 12px; margin: 2rem 0; text-align: center; }
+.contact-box h3 { margin-top: 0; }
+.stats-row { display: flex; gap: 2rem; flex-wrap: wrap; justify-content: center; margin: 2rem 0; }
+.stat-item { text-align: center; min-width: 120px; }
+.stat-number { font-family: 'Playfair Display', serif; font-size: 2rem; font-weight: 700; color: var(--primary); }
+.stat-label { font-size: 0.85rem; color: var(--text-muted); margin-top: 0.25rem; }
+</style>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-52JY0TL356"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-52JY0TL356', { 'anonymize_ip': true });
+</script>
+<script data-goatcounter="https://hanuman.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+</head>
+<body>
+
+<a href="#main-content" class="skip-link">Skip to main content</a>
+
+<header>
+  <nav aria-label="Main navigation">
+    <a href="/" class="nav-logo" aria-label="San Juan Excursions home">SJ Excursions</a>
+    <button class="nav-toggle" aria-label="Toggle navigation menu" aria-expanded="false" >
+      <span></span><span></span><span></span>
+    </button>
+        <ul class="nav-links">
+      <li><a href="/" >Home</a></li>
+      <li><a href="/el-yunque/" >El Yunque</a></li>
+      <li><a href="/snorkeling/" >Snorkeling</a></li>
+      <li><a href="/old-san-juan/" >Old San Juan</a></li>
+      <li><a href="/bio-bay/" >Bio Bay</a></li>
+      <li><a href="/day-trips/" >Day Trips</a></li>
+      <li><a href="/planning/" >Planning</a></li>
+      <li><a href="/about/">About</a></li>
+    </ul>
+  </nav>
+
+  <section class="hero">
+    <div class="hero-content">
+      <p class="hero-tagline">The Fine Print, In Plain English</p>
+      <h1>Terms of Use — San Juan Excursions</h1>
+      <p>Last updated: July 19, 2026. The rules of the road for using this site: editorial standards, affiliate disclosure, intellectual property, and what's not our responsibility.</p>
+    </div>
+  </section>
+</header>
+
+<main id="main-content">
+  <nav class="breadcrumbs" aria-label="Breadcrumb">
+    <a href="/">Home</a> › Terms of Use
+  </nav>
+
+  <section class="content-section">
+    <h2>1. Acceptance of Terms</h2>
+    <p>By visiting or using san-juan-excursions.com (the "site"), you agree to these terms. If you do not agree, please do not use the site. We may update these terms from time to time; the "Last updated" date at the top reflects the most recent revision. Continued use after changes means you accept the revised terms.</p>
+
+    <h2>2. What This Site Is — and Isn't</h2>
+    <p>San Juan Excursions is an editorial travel guide. I (Mateo Rivera) research, write, and publish reviews and recommendations about tours and experiences in Puerto Rico. The site is informational. Bookings, payments, and tour operations are handled by third-party operators (currently primarily Viator, a Tripadvisor company) on their own websites, under their own terms.</p>
+    <p>Nothing on this site is a guarantee of availability, price, safety, weather, or specific tour-operator behavior. Tours change, operators change, conditions change. I do my best to keep information current, but I cannot warrant that any specific tour, price, or schedule shown here is still accurate at the moment you read it.</p>
+
+    <h2>3. Editorial Standards and Affiliate Disclosure</h2>
+    <p>Every tour recommendation on this site reflects my genuine assessment. I do not accept payment from tour operators for placement, ranking, or favorable coverage. I do not write favorable reviews in exchange for free tours, comped activities, or any other consideration beyond normal consumer pricing.</p>
+    <p>This site participates in the Viator affiliate program. When you click a tour link on this site and complete a booking on Viator, Viator pays me a commission, typically 4–8% of the booking value, at no additional cost to you. This is the only revenue the site generates. Commission rates do not influence which tours I cover, in what order, or with what framing. Where a link is an affiliate link, it is marked with <code>rel="sponsored"</code>. See the <a href="/about/">about page</a> for the full story.</p>
+
+    <h2>4. No Professional Advice</h2>
+    <p>Content on this site is for general informational purposes only. It is not legal, medical, financial, or professional travel-planning advice. Conditions on the ground in Puerto Rico — weather, trail closures, marine conditions, operator practices — change constantly. Verify current conditions with the tour operator and with official sources (US National Weather Service, US Forest Service for El Yunque, Puerto Rico Tourism Company) before committing to a booking or activity, especially anything physically demanding or weather-sensitive.</p>
+
+    <h2>5. Intellectual Property</h2>
+    <p>All original text, photography, and graphics on this site are © 2024–2026 San Juan Excursions / Mateo Rivera, unless otherwise noted. You may:</p>
+    <ul>
+      <li>Quote short excerpts (under 200 words) for non-commercial review or commentary, with attribution and a link back to the source page on this site.</li>
+      <li>Share links to any page on this site.</li>
+    </ul>
+    <p>You may not, without prior written permission:</p>
+    <ul>
+      <li>Republish full articles, photo galleries, or substantial portions of the site's content on another website or in print.</li>
+      <li>Scrape, mirror, or systematically copy the site for training datasets, AI ingestion, or commercial republication.</li>
+      <li>Use my name, likeness, or the San Juan Excursions brand to imply endorsement of any product, tour, or service I have not explicitly endorsed in writing.</li>
+    </ul>
+    <p>Tour-operator trademarks (Viator, Tripadvisor, and others) remain the property of their respective owners and appear here under nominative fair use for editorial comparison.</p>
+
+    <h2>6. User-Submitted Content</h2>
+    <p>If you email me a question, testimonial, photo, or story and I publish it on the site, I will only do so with your explicit permission and only after removing anything personally identifying unless you ask me to keep it. If you later want it removed, just say so and I will take it down within 14 days. I do not host comments, reviews, or a forum, so there is no general user-generated-content surface on this site.</p>
+
+    <h2>7. Third-Party Sites</h2>
+    <p>Links to third-party sites (Viator, government sites, maps, weather services) are provided for convenience. I do not control those sites and I am not responsible for their content, availability, terms, or privacy practices. Use them at your own discretion and review their own terms and policies.</p>
+
+    <h2>8. Limitation of Liability</h2>
+    <p>To the maximum extent permitted by law, San Juan Excursions, Mateo Rivera, and any contributors shall not be liable for any indirect, incidental, special, consequential, or punitive damages arising out of or related to your use of this site, any information on it, or any tour you book through a third-party link. This includes, without limitation, loss of data, loss of vacation enjoyment, travel delays, or anything else resulting from acting (or not acting) on information presented here.</p>
+    <p>If a tour goes wrong because of weather, operator error, equipment failure, or anything outside the editorial content on this site, your recourse is with the tour operator and any applicable insurance, not with this site.</p>
+
+    <h2>9. Indemnification</h2>
+    <p>You agree to indemnify and hold harmless San Juan Excursions and Mateo Rivera from any claim, demand, loss, or expense (including reasonable legal fees) arising from your misuse of the site, your violation of these terms, or your violation of any third party's rights.</p>
+
+    <h2>10. Booking, Refunds, and Cancellations</h2>
+    <p>Bookings happen on Viator's website and are governed by Viator's booking terms, including their cancellation policy (typically free cancellation up to 24 hours before most tours). This site does not process payments, hold deposits, issue refunds, or mediate disputes between you and a tour operator. For booking issues, contact Viator customer support directly. If a tour went materially worse than what I described and you want me to know, please email me; honest reader reports are how I keep my recommendations honest.</p>
+
+    <h2>11. Accessibility</h2>
+    <p>I try to make this site usable for as many people as possible, including keyboard navigation, semantic HTML, descriptive alt text on images, sufficient color contrast, and reduced-motion support. If you encounter a barrier, please email me and I will work to address it.</p>
+
+    <h2>12. Governing Law</h2>
+    <p>These terms are governed by the laws of the Commonwealth of Puerto Rico and the United States, without regard to conflict-of-law provisions. Any dispute arising from these terms or your use of the site will be resolved in the courts of Puerto Rico, unless local consumer-protection law in your jurisdiction provides otherwise.</p>
+
+    <h2>13. Severability and Entire Agreement</h2>
+    <p>If any provision of these terms is found unenforceable, the rest remain in full effect. These terms, together with the <a href="/privacy/">privacy policy</a>, constitute the entire agreement between you and San Juan Excursions regarding your use of the site.</p>
+
+    <h2>14. Contact</h2>
+    <p>Questions about these terms, requests for permission to use content, or any other concern: use the email address on the <a href="/about/#contact">contact page</a>. I read every message personally and respond within a few days.</p>
+  </section>
+
+  <div class="affiliate-disclosure">
+    <strong>Affiliate note:</strong> Tour booking links on this site are affiliate links. When you book a tour through one of them, Viator may pay this site a commission at no extra cost to you. Commission does not influence editorial recommendations. See "Editorial Standards and Affiliate Disclosure" above for the full policy.
+  </div>
+</main>
+
+<footer role="contentinfo">
+  <div class="footer-grid">
+    <div>
+      <h4>San Juan Excursions</h4>
+      <p style="font-size:0.85rem; color:rgba(255,255,255,0.6);">Honest tour recommendations from a local guide. No fluff. No paid placements. Just the tours worth your time in San Juan, Puerto Rico.</p>
+    </div>
+    <div>
+      <h4>Tour Categories</h4>
+      <ul style="list-style:none; display:flex; flex-direction:column; gap:0.5rem;">
+        <li><a href="/el-yunque/">El Yunque Rainforest</a></li>
+        <li><a href="/snorkeling/">Snorkeling &amp; Water Tours</a></li>
+        <li><a href="/old-san-juan/">Old San Juan Walks</a></li>
+        <li><a href="/bio-bay/">Bio Bay Kayaking</a></li>
+        <li><a href="/day-trips/">Day Trips from San Juan</a></li>
+      </ul>
+    </div>
+    <div>
+      <h4>Site</h4>
+      <ul style="list-style:none; display:flex; flex-direction:column; gap:0.5rem;">
+        <li><a href="/">Home</a></li>
+        <li><a href="/about/">About Mateo</a></li>
+        <li><a href="/planning/">Planning Tips</a></li>
+        <li><a href="/about/#contact">Contact</a></li>
+      </ul>
+    </div>
+    <div>
+      <h4>Book Tours</h4>
+      <p style="font-size:0.85rem; color:rgba(255,255,255,0.6);">All tours are booked through Viator, a TripAdvisor company. Secure payment, verified reviews, and free cancellation on most experiences.</p>
+      <a href="https://www.viator.com/San-Juan/d903-ttd?pid=P00303273&mcid=42383&medium=link" style="display:inline-block; margin-top:0.75rem; background:var(--accent); color:white; padding:0.5rem 1rem; border-radius:20px; font-weight:600; font-size:0.85rem; text-decoration:none;" rel="sponsored noopener noreferrer" target="_blank">Browse all San Juan tours →</a>
+    </div>
+  </div>
+
+  <div class="footer-bottom">
+    <p>&copy; 2024–2026 San Juan Excursions. All rights reserved.</p>
+    <p style="margin-top:0.5rem;">San Juan Excursions is a participant in the Viator affiliate program. When you book through links on this site, we may earn a commission. This does not affect the price you pay or the tours we recommend. Opinions are solely those of Mateo Rivera based on firsthand experience.</p>
+  </div>
+</footer>
+
+<script src="/js/main.js" defer></script>
+</body>
+</html>

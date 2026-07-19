@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Privacy Policy — San Juan Excursions (2026)</title>
+<meta name="description" content="Privacy policy for San Juan Excursions. How we collect, use, and protect your data, including analytics, affiliate cookies, and your rights under GDPR/CCPA.">
+<meta name="keywords" content="privacy policy, San Juan Excursions privacy, data protection, affiliate disclosure, GDPR, CCPA, Puerto Rico tour reviews">
+<meta name="author" content="Mateo Rivera">
+<link rel="canonical" href="https://www.san-juan-excursions.com/privacy">
+<link rel="alternate" hreflang="en" href="https://www.san-juan-excursions.com/privacy">
+<link rel="alternate" hreflang="x-default" href="https://www.san-juan-excursions.com/privacy">
+<meta property="og:title" content="Privacy Policy — San Juan Excursions">
+<meta property="og:description" content="How San Juan Excursions collects, uses, and protects your data. Plain English summary of our privacy practices.">
+<meta property="og:url" content="https://www.san-juan-excursions.com/privacy">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Privacy Policy — San Juan Excursions">
+<meta name="twitter:description" content="How San Juan Excursions collects, uses, and protects your data. Plain English summary.">
+<meta property="og:image" content="https://www.san-juan-excursions.com/images/og-default.jpg">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Playfair+Display:wght@600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/css/style.css">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "PrivacyPolicy",
+  "name": "Privacy Policy — San Juan Excursions",
+  "description": "How San Juan Excursions collects, uses, and protects visitor data, including analytics, affiliate cookies, and reader rights under GDPR/CCPA.",
+  "url": "https://www.san-juan-excursions.com/privacy",
+  "mainEntity": {
+    "@type": "Person",
+    "name": "Mateo Rivera",
+    "description": "San Juan native, certified tour guide with 13 years of experience leading excursions across Puerto Rico. Founder of San Juan Excursions.",
+    "jobTitle": "Tour Guide & Founder",
+    "worksFor": {
+      "@type": "Organization",
+      "name": "San Juan Excursions",
+      "url": "https://www.san-juan-excursions.com/"
+    },
+    "knowsAbout": [
+      "El Yunque Rainforest Tours",
+      "San Juan Snorkeling",
+      "Bio Bay Kayaking",
+      "Old San Juan Walking Tours",
+      "Puerto Rico Day Trips"
+    ],
+    "homeLocation": {
+      "@type": "City",
+      "name": "San Juan",
+      "containedInPlace": {
+        "@type": "Country",
+        "name": "Puerto Rico"
+      }
+    }
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://www.san-juan-excursions.com/"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Privacy Policy",
+      "item": "https://www.san-juan-excursions.com/privacy"
+    }
+  ]
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Who runs San Juan Excursions?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Mateo Rivera — a San Juan native born in Santurce, raised between Old San Juan and the foothills of El Yunque. Certified tour guide since 2013 with over 3,000 excursions led across Puerto Rico. Still guides part-time to keep information current."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does San Juan Excursions make money?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Through Viator affiliate commissions. When you click through and book a tour, Mateo earns a small commission at no extra cost to you. No tour operator pays directly for placement. Rankings are based on real traveler reviews combined with Mateo's firsthand experience."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does Mateo accept payment from tour operators for better placement?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. San Juan Excursions does not accept direct payment from any tour operator for placement, ratings, or recommendations. If a tour is on this site, Mateo genuinely believes it's worth your time and money based on firsthand experience and verified reviews."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How are tours selected and ranked?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Tours are selected based on three criteria: (1) Mateo has personally experienced the tour or worked alongside the operator, (2) the operator maintains a 4.0+ rating across Viator and TripAdvisor with at least 100 reviews, and (3) the operator has a clear cancellation policy and safety record. Rankings are weighted by review count, average rating, guide quality, and Mateo's on-the-ground assessment."
+      }
+    }
+  ]
+}
+</script>
+
+<style>
+.hero { background: linear-gradient(160deg, #023E8A 0%, #0077B6 40%, #00B4D8 100%); }
+.hero h1 { font-size: clamp(1.6rem, 4vw, 2.4rem); }
+.timeline { position: relative; padding-left: 2rem; margin: 2rem 0; border-left: 3px solid var(--primary); }
+.timeline-item { margin-bottom: 2rem; position: relative; }
+.timeline-item::before { content: ''; position: absolute; left: -2.45rem; top: 0.35rem; width: 14px; height: 14px; background: var(--primary); border-radius: 50%; border: 3px solid var(--bg); }
+.timeline-year { font-size: 0.8rem; color: var(--primary); font-weight: 700; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 0.25rem; }
+.timeline-item h3 { margin: 0 0 0.5rem; font-size: 1.1rem; }
+.ethics-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5rem; margin: 2rem 0; }
+.ethics-card { background: white; border-radius: 12px; padding: 1.5rem; box-shadow: 0 2px 8px rgba(0,0,0,0.06); border-top: 4px solid var(--primary); }
+.ethics-card.negative { border-top-color: var(--accent); }
+.ethics-card h3 { margin: 0 0 0.75rem; font-size: 1.1rem; }
+.ethics-card p { font-size: 0.9rem; color: var(--text-muted); line-height: 1.6; }
+.contact-box { background: var(--surface); padding: 2rem; border-radius: 12px; margin: 2rem 0; text-align: center; }
+.contact-box h3 { margin-top: 0; }
+.stats-row { display: flex; gap: 2rem; flex-wrap: wrap; justify-content: center; margin: 2rem 0; }
+.stat-item { text-align: center; min-width: 120px; }
+.stat-number { font-family: 'Playfair Display', serif; font-size: 2rem; font-weight: 700; color: var(--primary); }
+.stat-label { font-size: 0.85rem; color: var(--text-muted); margin-top: 0.25rem; }
+</style>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-52JY0TL356"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-52JY0TL356', { 'anonymize_ip': true });
+</script>
+<script data-goatcounter="https://hanuman.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+</head>
+<body>
+
+<a href="#main-content" class="skip-link">Skip to main content</a>
+
+<header>
+  <nav aria-label="Main navigation">
+    <a href="/" class="nav-logo" aria-label="San Juan Excursions home">SJ Excursions</a>
+    <button class="nav-toggle" aria-label="Toggle navigation menu" aria-expanded="false" >
+      <span></span><span></span><span></span>
+    </button>
+        <ul class="nav-links">
+      <li><a href="/" >Home</a></li>
+      <li><a href="/el-yunque/" >El Yunque</a></li>
+      <li><a href="/snorkeling/" >Snorkeling</a></li>
+      <li><a href="/old-san-juan/" >Old San Juan</a></li>
+      <li><a href="/bio-bay/" >Bio Bay</a></li>
+      <li><a href="/day-trips/" >Day Trips</a></li>
+      <li><a href="/planning/" >Planning</a></li>
+      <li><a href="/about/">About</a></li>
+    </ul>
+  </nav>
+
+  <section class="hero">
+    <div class="hero-content">
+      <p class="hero-tagline">Your Data, Plainly Explained</p>
+      <h1>Privacy Policy — San Juan Excursions</h1>
+      <p>Last updated: July 19, 2026. Plain-English summary of what we collect, why, and the choices you have. No dark patterns, no legalese walls of text.</p>
+    </div>
+  </section>
+</header>
+
+<main id="main-content">
+  <nav class="breadcrumbs" aria-label="Breadcrumb">
+    <a href="/">Home</a> › Privacy Policy
+  </nav>
+
+  <section class="content-section">
+    <h2>1. Who This Is</h2>
+    <p>San Juan Excursions ("we," "us," or "the site") is operated by Mateo Rivera, a certified Puerto Rico tour guide based in San Juan. This policy explains what information we collect when you visit san-juan-excursions.com, how we use it, and the rights you have over that data. It applies only to this website; when you click through to a tour operator like Viator, their privacy policy governs what they collect.</p>
+
+    <p>If anything on this page is unclear, email me at the address listed on the <a href="/about/#contact">contact page</a> and I'll answer directly.</p>
+
+    <h2>2. The Short Version</h2>
+    <ul>
+      <li>We collect anonymous usage analytics (pages visited, device type, country) to know which guides help people.</li>
+      <li>Bookings happen on Viator's site. We never see your credit card, passport, or full identity.</li>
+      <li>We do not sell, rent, or trade your personal data to anyone, ever.</li>
+      <li>You can request a copy of any data we hold on you, or ask us to delete it, at any time.</li>
+    </ul>
+
+    <h2>3. Information We Collect</h2>
+    <p><strong>Automatically, when you visit the site:</strong></p>
+    <ul>
+      <li>Pages viewed, time on page, and referrer (the previous site or search engine).</li>
+      <li>Approximate country and city, derived from your IP address.</li>
+      <li>Device type (mobile, desktop, tablet), operating system, and browser.</li>
+      <li>Whether you arrived from a search engine, social media, or directly.</li>
+    </ul>
+    <p><strong>Only if you choose to provide it:</strong></p>
+    <ul>
+      <li>Your name and email if you write to us through the contact form or reply to an email.</li>
+      <li>Anything you include in your message to us, including tour preferences or trip dates.</li>
+    </ul>
+    <p><strong>We do not collect:</strong> your full name, mailing address, phone number, payment information, passport, or government ID. We do not run advertising trackers and we do not embed Facebook, TikTok, or other third-party ad pixels.</p>
+
+    <h2>4. How We Use That Information</h2>
+    <p>We use the automatically collected data to understand which tour guides and pages are actually useful to travelers, so we can improve them and write about what people are really looking for. We use email correspondence to answer your questions and, if you've asked to be updated about new guides, to notify you when we publish something relevant. We do not use your email for any marketing list, paid newsletter platform, or third-party mailing service.</p>
+    <p>Aggregate, anonymous usage statistics may inform which topics we cover next, but they are never tied to a specific individual in any report or decision.</p>
+
+    <h2>5. Cookies, Analytics, and Affiliate Links</h2>
+    <p><strong>Analytics:</strong> We use GoatCounter, a privacy-respecting analytics tool that does not require cookies, does not track users across sites, and does not collect IP addresses in full. GoatCounter stores a small amount of usage data in the EU and is GDPR-compliant out of the box. You can read their policy at <a href="https://www.goatcounter.com/" rel="noopener noreferrer" target="_blank">goatcounter.com</a>.</p>
+    <p><strong>Affiliate cookies:</strong> When you click a "Check Availability" or "Book Now" link, the destination (Viator) may set a cookie in your browser so they can attribute any resulting booking to this site. This is how affiliate tracking works across the industry. If you block or clear cookies, the link still works; we simply may not earn a commission on that booking. Viator's privacy policy governs anything that happens after you arrive on their site.</p>
+    <p><strong>No advertising cookies:</strong> We do not use Google Ads, Facebook Ads, Taboola, Outbrain, or any programmatic advertising network. There are no third-party ad pixels on this site.</p>
+
+    <h2>6. How This Site Makes Money</h2>
+    <p>San Juan Excursions is a participant in the Viator affiliate program. When you book a tour through a link on this site, Viator pays us a small commission, typically 4–8% of the booking value, at no extra cost to you. This is the only revenue the site generates. We do not accept payment from tour operators for placement, ranking, or favorable reviews. Our editorial recommendations are made independently of any affiliate relationship. For full background, see the <a href="/about/">about page</a>.</p>
+
+    <h2>7. Data Sharing</h2>
+    <p>We do not sell, rent, lease, or trade your personal information to third parties for marketing or any other purpose. The only parties who may process data on our behalf are:</p>
+    <ul>
+      <li><strong>GoatCounter</strong> — anonymous analytics, EU-hosted.</li>
+      <li><strong>Our hosting provider (Vercel)</strong> — serves the website; standard server logs are retained briefly for security and debugging.</li>
+      <li><strong>Email provider</strong> — if you write to us, your message is stored in our email account until you ask us to delete it.</li>
+    </ul>
+    <p>We will disclose information only when legally required (court order, valid subpoena) or when strictly necessary to investigate suspected illegal activity on the site.</p>
+
+    <h2>8. Data Retention</h2>
+    <p>Anonymous analytics data is retained by GoatCounter for the duration of our account with them, currently indefinitely in aggregated form. Individual email correspondence is retained until you request deletion or until 24 months have passed without active correspondence, whichever comes first. We do not retain any backups of email on personal devices beyond normal mail-client behavior.</p>
+
+    <h2>9. Your Rights (GDPR, CCPA, and Friends)</h2>
+    <p>If you are in the European Economic Area, the United Kingdom, California, or any jurisdiction with comparable data-protection law, you have the right to:</p>
+    <ul>
+      <li><strong>Access</strong> a copy of any personal data we hold about you.</li>
+      <li><strong>Correct</strong> anything inaccurate.</li>
+      <li><strong>Delete</strong> your data, subject to the retention limits above.</li>
+      <li><strong>Object</strong> to processing or request that we restrict it.</li>
+      <li><strong>Data portability</strong> in a machine-readable format.</li>
+      <li><strong>Withdraw consent</strong> at any time, where processing is based on consent.</li>
+      <li><strong>Lodge a complaint</strong> with your local data-protection authority.</li>
+    </ul>
+    <p>To exercise any of these rights, email us using the address on the <a href="/about/#contact">contact page</a>. We respond within 30 days, usually much sooner.</p>
+
+    <h2>10. Children's Privacy</h2>
+    <p>This site is not directed at children under 16, and we do not knowingly collect any information from anyone in that age group. If you believe a child has provided personal information through the contact form, please email us and we will delete it promptly.</p>
+
+    <h2>11. International Visitors</h2>
+    <p>We are based in San Juan, Puerto Rico, United States. By using this site from outside the US, you understand that your data may be transferred to, stored in, and processed in the US and the EU (for analytics). We use providers with appropriate safeguards regardless of where you visit from.</p>
+
+    <h2>12. Changes to This Policy</h2>
+    <p>If we make material changes, we will update the "Last updated" date at the top of this page and, if the change is significant, note it briefly on the <a href="/">home page</a> for 30 days. We will not silently expand what we collect or who we share it with.</p>
+
+    <h2>13. Contact</h2>
+    <p>For privacy questions, data access requests, or to report a concern, use the email address on the <a href="/about/#contact">contact page</a>. We take every privacy inquiry seriously and respond personally.</p>
+  </section>
+
+  <div class="affiliate-disclosure">
+    <strong>Affiliate note:</strong> Bookings happen on Viator's website. When you click a tour link here and book, we may earn a commission at no extra cost to you. Viator's privacy policy then governs what they collect. See "How This Site Makes Money" above for full disclosure.
+  </div>
+</main>
+
+<footer role="contentinfo">
+  <div class="footer-grid">
+    <div>
+      <h4>San Juan Excursions</h4>
+      <p style="font-size:0.85rem; color:rgba(255,255,255,0.6);">Honest tour recommendations from a local guide. No fluff. No paid placements. Just the tours worth your time in San Juan, Puerto Rico.</p>
+    </div>
+    <div>
+      <h4>Tour Categories</h4>
+      <ul style="list-style:none; display:flex; flex-direction:column; gap:0.5rem;">
+        <li><a href="/el-yunque/">El Yunque Rainforest</a></li>
+        <li><a href="/snorkeling/">Snorkeling &amp; Water Tours</a></li>
+        <li><a href="/old-san-juan/">Old San Juan Walks</a></li>
+        <li><a href="/bio-bay/">Bio Bay Kayaking</a></li>
+        <li><a href="/day-trips/">Day Trips from San Juan</a></li>
+      </ul>
+    </div>
+    <div>
+      <h4>Site</h4>
+      <ul style="list-style:none; display:flex; flex-direction:column; gap:0.5rem;">
+        <li><a href="/">Home</a></li>
+        <li><a href="/about/">About Mateo</a></li>
+        <li><a href="/planning/">Planning Tips</a></li>
+        <li><a href="/about/#contact">Contact</a></li>
+      </ul>
+    </div>
+    <div>
+      <h4>Book Tours</h4>
+      <p style="font-size:0.85rem; color:rgba(255,255,255,0.6);">All tours are booked through Viator, a TripAdvisor company. Secure payment, verified reviews, and free cancellation on most experiences.</p>
+      <a href="https://www.viator.com/San-Juan/d903-ttd?pid=P00303273&mcid=42383&medium=link" style="display:inline-block; margin-top:0.75rem; background:var(--accent); color:white; padding:0.5rem 1rem; border-radius:20px; font-weight:600; font-size:0.85rem; text-decoration:none;" rel="sponsored noopener noreferrer" target="_blank">Browse all San Juan tours →</a>
+    </div>
+  </div>
+
+  <div class="footer-bottom">
+    <p>&copy; 2024–2026 San Juan Excursions. All rights reserved.</p>
+    <p style="margin-top:0.5rem;">San Juan Excursions is a participant in the Viator affiliate program. When you book through links on this site, we may earn a commission. This does not affect the price you pay or the tours we recommend. Opinions are solely those of Mateo Rivera based on firsthand experience.</p>
+  </div>
+</footer>
+
+<script src="/js/main.js" defer></script>
+</body>
+</html>

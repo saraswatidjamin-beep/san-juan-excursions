@@ -229,6 +229,18 @@ img.author-avatar {
   .hero, .page-header { min-height: 280px; }
   .pick-cards, .card-grid { grid-template-columns: 1fr; }
 }
+
+/* ── Hero Image (Pexels editorial) ── */
+.hero-img {
+  width: 100%;
+  height: auto;
+  max-width: 1200px;
+  display: block;
+  margin: 0 auto;
+  border-radius: 8px;
+  object-fit: cover;
+}
+
 @media (max-width: 600px) {
   .intro { padding: 0 1rem; }
   .breadcrumbs { padding: 0.5rem 1rem; }

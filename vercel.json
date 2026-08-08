@@ -1,1 +1,43 @@
-{"cleanUrls": true, "trailingSlash": false, "outputDirectory": ".", "redirects": [{"source": "/(.*)", "destination": "https://www.san-juan-excursions.com/$1", "permanent": true, "has": [{"type": "host", "value": "san-juan-excursions.com"}]}]}
+{
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "outputDirectory": ".",
+  "redirects": [
+    {
+      "source": "/vieques-bio-bay-tour-vs-bioluminescent-bay-n-biobay-san-jua",
+      "destination": "/biobay-tours-buyers-guide-san-juan/",
+      "permanent": true
+    },
+    {
+      "source": "/vieques-bio-bay-tour-vs-bioluminescent-bay-n-biobay-san-jua.html",
+      "destination": "/biobay-tours-buyers-guide-san-juan/",
+      "permanent": true
+    },
+    {
+      "source": "/vieques-bio-bay-tour-vs-bioluminescent-bay-n-biobay-san-jua/index.html",
+      "destination": "/biobay-tours-buyers-guide-san-juan/",
+      "permanent": true
+    },
+    {
+      "source": "/vieques-bio-bay-tour-beach-day-tr-biobay-tour-review",
+      "destination": "/biobay-tours-buyers-guide-san-juan/",
+      "permanent": true
+    },
+    {
+      "source": "/vieques-bio-bay-tour-beach-day-tr-biobay-tour-review.html",
+      "destination": "/biobay-tours-buyers-guide-san-juan/",
+      "permanent": true
+    },
+    {
+      "source": "/(.*)",
+      "destination": "https://www.san-juan-excursions.com/$1",
+      "permanent": true,
+      "has": [
+        {
+          "type": "host",
+          "value": "san-juan-excursions.com"
+        }
+      ]
+    }
+  ]
+}

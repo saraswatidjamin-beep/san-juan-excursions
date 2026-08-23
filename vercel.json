@@ -29,6 +29,36 @@
       "permanent": true
     },
     {
+      "source": "/half-day-tour-el-yu-vs-el-yunque-rainforest-elyunque-san-j",
+      "destination": "/half-day-tour-el-yunque-rainforest-and-waterslide-adventure-vs-el-yunque-rainforest-hiking-tour-from-san-juan-comparison",
+      "permanent": true
+    },
+    {
+      "source": "/half-day-tour-el-yu-vs-el-yunque-rainforest-elyunque-san-j.html",
+      "destination": "/half-day-tour-el-yunque-rainforest-and-waterslide-adventure-vs-el-yunque-rainforest-hiking-tour-from-san-juan-comparison",
+      "permanent": true
+    },
+    {
+      "source": "/rated-el-yunque-rainforest-wa-elyunque-tour-review",
+      "destination": "/top-rated-el-yunque-rainforest-waterslide-smallgroup-tour-review",
+      "permanent": true
+    },
+    {
+      "source": "/rated-el-yunque-rainforest-wa-elyunque-tour-review.html",
+      "destination": "/top-rated-el-yunque-rainforest-waterslide-smallgroup-tour-review",
+      "permanent": true
+    },
+    {
+      "source": "/rated-el-yunque-vs-half-day-tour-el-yu-elyunque-san-j",
+      "destination": "/top-rated-el-yunque-rainforest-waterslide-smallgroup-tour-vs-half-day-tour-el-yunque-rainforest-and-waterslide-adventure-comparison",
+      "permanent": true
+    },
+    {
+      "source": "/rated-el-yunque-vs-half-day-tour-el-yu-elyunque-san-j.html",
+      "destination": "/top-rated-el-yunque-rainforest-waterslide-smallgroup-tour-vs-half-day-tour-el-yunque-rainforest-and-waterslide-adventure-comparison",
+      "permanent": true
+    },
+    {
       "source": "/(.*)",
       "destination": "https://www.san-juan-excursions.com/$1",
       "permanent": true,

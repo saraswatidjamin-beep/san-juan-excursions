@@ -12,3 +12,6 @@
 ## 2026-08-16 (link-health-flywheel)
 - **favicon.svg (new)**: Site was missing favicon (404 on live). Added brand-colored SVG (ocean blue #0077B6, white S) matching fleet pattern.
 - 6 additional files: included pending price-fix output (data-price attributes) in this commit
+
+## 2026-08-30 (link-health-flywheel)
+- **5 pages**: Fixed SLUG_MISMATCH on product 358368P1 (Small-Group El Yunque Waterslide and Transportation with Photos). Previous href used stale slug `El-Yunque-waterslide-adventure-Transportation` (from older API snapshot in `data/viator-products.json`); replaced with API-current canonical `Small-Group-El-Yunque-Waterslide-and-Transportation-with-Photos`. Files: `index.html`, `el-yunque/index.html`, `el-yunque/waterslide-comparison/index.html`, `el-yunque/best-el-yunque-tours/index.html`, `planning/index.html`. Also updated 2 stale `data-goatcounter-click` attrs in `el-yunque/index.html` and `el-yunque/waterslide-comparison/index.html` (GoatCounter dimension must match outbound href slug for attribution). Both URLs resolve to the same productCode `d903-358368P1` — change is slug canonicalization, not 404 fix.

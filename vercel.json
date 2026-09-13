@@ -59,6 +59,26 @@
       "permanent": true
     },
     {
+      "source": "/5-elyunque-tours-san-juan",
+      "destination": "https://www.san-juan-excursions.com/el-yunque-rainforest-waterslide-tours-san-juan",
+      "permanent": true
+    },
+    {
+      "source": "/elyunque-tours-buyers-guide-san-juan",
+      "destination": "https://www.san-juan-excursions.com/el-yunque-rainforest-tours-buyers-guide-san-juan",
+      "permanent": true
+    },
+    {
+      "source": "/half-day-tour-el-yunque-rainforest-elyunque-tour-review",
+      "destination": "https://www.san-juan-excursions.com/half-day-el-yunque-rainforest-waterslide-adventure-review",
+      "permanent": true
+    },
+    {
+      "source": "/old-san-juan-hands-o-vs-private-historical-w-hiking-san-juan",
+      "destination": "https://www.san-juan-excursions.com/old-san-juan-hands-on-walk-vs-private-historical-tour",
+      "permanent": true
+    },
+    {
       "source": "/(.*)",
       "destination": "https://www.san-juan-excursions.com/$1",
       "permanent": true,

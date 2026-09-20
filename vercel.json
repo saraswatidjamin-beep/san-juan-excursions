@@ -49,6 +49,11 @@
       "permanent": true
     },
     {
+      "source": "/old-san-juan-deluxe-vs-old-san-juan-hands-o-hiking-san-juan",
+      "destination": "https://www.san-juan-excursions.com/old-san-juan-deluxe-vs-hands-on-walk",
+      "permanent": true
+    },
+    {
       "source": "/(.*)",
       "destination": "https://www.san-juan-excursions.com/$1",
       "permanent": true,

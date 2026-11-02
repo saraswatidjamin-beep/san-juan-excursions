@@ -245,3 +245,17 @@ img.author-avatar {
   .intro { padding: 0 1rem; }
   .breadcrumbs { padding: 0.5rem 1rem; }
 }
+
+/* Frozen imageless-photo additions: responsive sizing, exact asset allowlist. */
+main .inline-image > img[src="/images/195978P2.jpg"],
+main .inline-image > img[src="/images/101727P4_1.jpg"],
+main .inline-image > img[src="/images/5509278P1_2.jpg"],
+main .inline-image > img[src="/images/9406P12_3.jpg"],
+main .inline-image > img[src="/images/203528P2_1.jpg"],
+main .inline-image > img[src="/images/203528P2_2.jpg"],
+main .inline-image > img[src="/images/162160P1_1.jpg"],
+main .inline-image > img[src="/images/45107P2_1.jpg"],
+main .inline-image > img[src="/images/45107P2_2.jpg"] {
+  max-width: 100%;
+  height: auto;
+}

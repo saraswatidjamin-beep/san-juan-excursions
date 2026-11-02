@@ -259,3 +259,10 @@ main .inline-image > img[src="/images/45107P2_2.jpg"] {
   max-width: 100%;
   height: auto;
 }
+
+/* Curated comparison photos: exact assets, responsive at every viewport. */
+main .inline-image > img[src="/images/217270P2_12.jpg"],
+main .inline-image > img[src="/images/104842P2_12.jpg"] {
+  max-width: 100%;
+  height: auto;
+}

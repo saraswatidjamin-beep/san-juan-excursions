@@ -286,16 +286,6 @@ knowledge:
       who_not_for: "Experienced snorkelers wanting healthy coral (Escambrón's coral is modest). People who want deep-water reef."
       product_url: "https://www.viator.com/tours/San-Juan/Guided-Snorkel-Tour/d903-45107P2"
 
-    - code: "174461P1"
-      title: "Puerto Rico Jet Snorkel with Turtles and Videos in San Juan"
-      price: 99.00
-      rating: 4.94
-      reviews: 2327
-      duration: "90 minutes"
-      why_recommended: "Motorized propulsion unit — covers 3x the area without exhaustion. Same Escambrón location, same turtles. Best for non-swimmers or older adults."
-      who_not_for: "Budget travelers ($50 standard turtle snorkel vs $99). Strong swimmers who don't need motorized assistance."
-      product_url: "https://www.viator.com/tours/San-Juan/Puerto-Rico-Jet-Snorkel-with-Turtles-in-San-Juan/d903-174461P1"
-
     - code: "486634P7"
       title: "San Juan: Snorkeling with Turtles, Escambrón Beach Complimentary Videos"
       price: 42.00

@@ -54,6 +54,11 @@
       "permanent": true
     },
     {
+      "source": "/puerto-rico-jet-snorkel-with-turtle-water-tour-review",
+      "destination": "https://www.san-juan-excursions.com/san-juan-guided-turtle-snorkel-tour-water-tour-review",
+      "permanent": true
+    },
+    {
       "source": "/(.*)",
       "destination": "https://www.san-juan-excursions.com/$1",
       "permanent": true,
